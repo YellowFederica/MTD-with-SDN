@@ -1,0 +1,21 @@
+frr version 9.1
+frr defaults traditional
+hostname r1
+no ipv6 forwarding
+service integrated-vtysh-config
+!
+interface r1-eth1.100
+ ip address 10.0.0.1/24
+exit
+!
+interface r1-eth1.200
+ ip address 10.0.1.1/24
+exit
+!
+router ospf
+ ospf router-id 1.1.1.1
+ network 10.0.0.0/24 area 0
+ network 10.0.1.0/24 area 0
+ network 10.0.2.0/24 area 0
+exit
+!

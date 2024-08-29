@@ -1,0 +1,37 @@
+# Copyright 2001-2005 Sourcefire, Inc. All Rights Reserved
+#
+# This file may contain proprietary rules that were created, tested and
+# certified by Sourcefire, Inc. (the "VRT Certified Rules") as well as
+# rules that were created by Sourcefire and other third parties and
+# distributed under the GNU General Public License (the "GPL Rules").  The
+# VRT Certified Rules contained in this file are the property of
+# Sourcefire, Inc. Copyright 2005 Sourcefire, Inc. All Rights Reserved.
+# The GPL Rules created by Sourcefire, Inc. are the property of
+# Sourcefire, Inc. Copyright 2002-2005 Sourcefire, Inc. All Rights
+# Reserved.  All other GPL Rules are owned and copyrighted by their
+# respective owners (please see www.snort.org/contributors for a list of
+# owners and their respective copyrights).  In order to determine what
+# rules are VRT Certified Rules or GPL Rules, please refer to the VRT
+# Certified Rules License Agreement.
+#
+#
+# $Id: icmp.rules,v 1.25.2.1.2.2 2005/05/16 22:17:51 mwatchinski Exp $
+#-----------
+# ICMP RULES
+#-----------
+#
+# Description:
+# These rules are potentially bad ICMP traffic.  They include most of the
+# ICMP scanning tools and other "BAD" ICMP traffic (Such as redirect host)
+#
+# Other ICMP rules are included in icmp-info.rules
+
+#alert icmp any any -> any any (msg:"[1000004]Pinging...";sid:1000004;)
+#alert tcp any any -> any any (msg:"[1000003]Port 80 is accessing"; sid:1000003;)
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"[1000] SCAN NULL"; flow:stateless; ack:0; flags:0; seq:0; classtype:attempted-recon; sid:1000;)
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"[1001] SCAN SYN FIN"; flow:stateless; flags:SF,12; classtype:attempted-recon; sid:1001;)
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"[1002] SCAN XMAS"; flow:stateless; flags:SRAFPU,12; classtype:attempted-recon; sid:1002;)
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"[1003] SCAN nmap XMAS"; flow:stateless; flags:FPU,12; classtype:attempted-recon; sid:1003;)
+alert tcp $EXTERNAL_NET any -> $HOME_NET 22 (msg:"[1004] SSH port scan attempt from external net"; flow:stateless; classtype:attempted-recon; sid:1004;)
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"[1005] Special vsftpd backdoor exploit characters used for login"; content:"USER"; content:"|3A 29|"; classtype:suspicious-login; sid:1005;)
+alert tcp $HOME_NET 21 -> $EXTERNAL_NET any (msg:"[1006] FTP Brute force attempt";pcre:"/500|530/i";threshold:type both, track by_src, count 5, seconds 10;  sid:1006; rev:5;)

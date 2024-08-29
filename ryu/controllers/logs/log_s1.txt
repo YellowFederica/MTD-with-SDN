@@ -1,0 +1,9 @@
+loading app /controllers/simple_switch_snort.py
+loading app ryu.controller.ofp_handler
+instantiating app None of SnortLib
+creating context snortlib
+instantiating app /controllers/simple_switch_snort.py of SwitchVLANSnort
+[snort][INFO] {'unixsock': False, 'port': 51234}
+instantiating app ryu.controller.ofp_handler of OFPHandler
+[snort][INFO] Network socket server start listening...
+[snort][INFO] Connected with 10.0.5.2

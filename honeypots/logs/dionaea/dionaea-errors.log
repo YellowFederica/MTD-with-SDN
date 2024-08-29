@@ -1,0 +1,344 @@
+[01052024 21:59:07] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:07] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:23] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 21:59:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:23] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 21:59:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:39] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 21:59:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:39] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 21:59:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:55] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:55] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:55] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 21:59:55] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 21:59:55] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 21:59:55] processor [01052024 22:03:15] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:15] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:31] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:31] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:31] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:03:31] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:31] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:31] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:31] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:31] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:03:31] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:31] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:31] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:31] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:47] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:47] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:47] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:03:47] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:47] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:47] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:47] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:47] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:03:47] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:47] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:03:47] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:03:47] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:03] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:03] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:03] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:04:03] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:03] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:03] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:03] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:03] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:04:03] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:03] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:03] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:03] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:19] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:04:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:19] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:04:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:35] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:35] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:35] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:04:35] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:35] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:35] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:35] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:35] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:04:35] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:35] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:35] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:35] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:51] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:51] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:51] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:04:51] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:51] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:51] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:51] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:51] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:04:51] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:51] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:04:51] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:04:51] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:07] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:07] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:07] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:05:07] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:07] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:07] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:07] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:07] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:05:07] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:07] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:07] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:07] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:23] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:05:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:23] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:05:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:39] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:05:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:39] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:05:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:39] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:39] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:55] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:55] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:55] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[01052024 22:05:55] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:55] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:55] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:55] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:55] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[01052024 22:05:55] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:55] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:05:55] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:05:55] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:06:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ No such file or directory
+[01052024 22:06:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-01/ (No such file or directory)
+[01052024 22:06:35] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-01/ [03052024 16:49:10] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:10] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:26] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:26] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:26] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:49:26] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:26] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:26] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:26] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:26] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:49:26] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:26] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:26] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:26] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:42] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:42] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:42] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:49:42] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:42] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:42] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:42] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:42] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:49:42] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:42] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:42] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:42] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:58] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:58] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:58] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:49:58] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:58] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:58] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:58] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:58] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:49:58] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:58] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:49:58] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:49:58] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:14] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:14] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:14] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:50:14] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:14] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:14] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:14] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:14] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:50:14] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:14] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:14] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:14] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:30] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:30] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:30] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:50:30] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:30] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:30] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:30] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:30] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:50:30] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:30] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:30] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:30] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:46] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:46] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:46] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:50:46] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:46] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:46] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:46] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:46] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:50:46] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:46] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:50:46] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:50:46] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:02] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:02] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:02] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:51:02] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:02] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:02] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:02] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:02] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:51:02] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:02] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:02] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:02] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:18] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:18] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:18] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:51:18] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:18] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:18] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:18] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:18] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:51:18] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:18] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:18] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:18] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:34] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:34] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:34] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:51:34] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:34] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:34] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:34] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:34] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:51:34] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:34] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:34] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:34] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:50] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:50] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:50] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:51:50] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:50] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:50] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:50] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:50] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 16:51:50] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:50] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:51:50] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:51:50] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:52:06] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 16:52:06] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 16:52:06] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 16:52:06] processor /code/src/processor.c:4[03052024 21:31:16] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:31:16] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:31:42] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:31:42] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:31:42] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 21:31:42] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:31:42] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:31:51] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:31:51] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:31:51] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 21:31:51] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:31:51] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:18] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:18] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:18] ftp /dionaea/ftp.py:235-warning: cmd 'b'LIST''
+[03052024 21:32:30] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:30] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:34] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:34] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:34] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 21:32:34] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:34] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:38] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:38] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:38] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 21:32:38] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:38] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:44] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:44] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:44] ftp /dionaea/ftp.py:235-warning: cmd 'b'LSIST''
+[03052024 21:32:44] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:44] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:48] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:32:48] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:32:48] ftp /dionaea/ftp.py:235-warning: cmd 'b'LIST''
+[03052024 21:33:09] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:33:09] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:33:14] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:33:14] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:33:14] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 21:33:14] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:33:14] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:33:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:33:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:33:19] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASS''
+[03052024 21:33:19] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:33:19] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:33:23] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:33:23] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:33:23] ftp /dionaea/ftp.py:235-warning: cmd 'b'LIST''
+[03052024 21:34:16] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:34:16] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:34:20] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:34:20] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:34:20] ftp /dionaea/ftp.py:235-warning: cmd 'b'USER''
+[03052024 21:34:20] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:34:20] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:34:26] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:34:26] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:34:26] ftp /dionaea/ftp.py:235-warning: cmd 'b'PASSWORD''
+[03052024 21:34:26] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:34:26] util /code/src/util.c:236-warning: could not open path var/lib/dionaea/bistreams/2024-05-03/ (No such file or directory)
+[03052024 21:34:29] processor /code/src/processor.c:423-warning: Could not create var/lib/dionaea/bistreams/2024-05-03/ No such file or directory
+[03052024 21:34:29] util /code/src/util.c:236-warning: could n
